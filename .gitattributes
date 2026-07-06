@@ -1,0 +1,12 @@
+# Normalize line endings to LF for all text files (Vercel/Linux builds)
+* text=auto eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary

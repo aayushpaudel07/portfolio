@@ -1,0 +1,23 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder profile silhouette">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101314"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff9c"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#00ff9c" stroke-width="1">
+    <line x1="0" y1="50" x2="400" y2="50"/>
+    <line x1="0" y1="120" x2="400" y2="120"/>
+    <line x1="0" y1="190" x2="400" y2="190"/>
+    <line x1="0" y1="260" x2="400" y2="260"/>
+    <line x1="0" y1="330" x2="400" y2="330"/>
+  </g>
+  <circle cx="200" cy="160" r="70" fill="none" stroke="url(#fg)" stroke-width="3" opacity="0.9"/>
+  <path d="M90 340 C90 250 310 250 310 340" fill="none" stroke="url(#fg)" stroke-width="3" opacity="0.9"/>
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.25"/>
+</svg>
