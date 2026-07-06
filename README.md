@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | All text content (bio, skills, projects, certs, achievements) | `lib/data.ts` — one file drives every section |
 | Certificate images | Drop images in `public/certificates/` and reference them from `lib/data.ts` |
 | Project screenshots + GitHub links | `public/projects/` + the `github`/`image` fields in `lib/data.ts` |
-| Site URL for SEO | `app/layout.tsx`, `app/robots.ts`, `app/sitemap.ts` (currently `aayushpaudel.dev`) |
+| Site URL for SEO | `app/layout.tsx`, `app/robots.ts`, `app/sitemap.ts` (`www.aayush-paudel.com.np`) |
 
 ## Contact form (EmailJS)
 

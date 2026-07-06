@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://aayushpaudel.dev/sitemap.xml",
+    sitemap: "https://www.aayush-paudel.com.np/sitemap.xml",
   };
 }

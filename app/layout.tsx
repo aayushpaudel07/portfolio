@@ -14,7 +14,7 @@ const inter = Inter({
   weight: ["400", "500", "600", "700"],
 });
 
-const siteUrl = "https://aayushpaudel.dev";
+const siteUrl = "https://www.aayush-paudel.com.np";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
