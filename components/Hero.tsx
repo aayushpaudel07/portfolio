@@ -137,7 +137,7 @@ export default function Hero() {
               <div className="gradient-border rounded-full p-1.5">
                 <div className="relative h-56 w-56 overflow-hidden rounded-full bg-bg-elevated sm:h-72 sm:w-72">
                   <Image
-                    src="/images/profile-placeholder.svg"
+                    src="/images/profile.jpg"
                     alt="Portrait of Aayush Paudel"
                     fill
                     sizes="(max-width: 640px) 224px, 288px"

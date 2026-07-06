@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | What | Where |
 |---|---|
 | Resume PDF | Replace `public/resume.pdf` with your actual CV (keep the filename) |
-| Profile photo | Add your photo as e.g. `public/images/profile.jpg`, then change the `src` in `components/Hero.tsx` from `/images/profile-placeholder.svg` |
+| Profile photo | `public/images/profile.jpg` (800×800 JPEG) — replace the file to change it |
 | All text content (bio, skills, projects, certs, achievements) | `lib/data.ts` — one file drives every section |
 | Certificate images | Drop images in `public/certificates/` and reference them from `lib/data.ts` |
 | Project screenshots + GitHub links | `public/projects/` + the `github`/`image` fields in `lib/data.ts` |
